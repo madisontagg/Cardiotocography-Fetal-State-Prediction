@@ -1,6 +1,6 @@
 # Cardiotocography-Fetal-State-Prediction
 
-Project done on Free time - fetal cardiotocograms (CTGs) were processed on respective features and their fetal state diagnosis were predicted with ML Modeling
+Project on Free Time - fetal cardiotocograms (CTGs) were processed on respective features and their fetal state diagnosis were predicted with ML Modeling
 
 The dataset was pulled from: https://archive.ics.uci.edu/ml/datasets/cardiotocography
 
